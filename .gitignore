@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+
+# Environment
+env/
+venv/
+*.env
+
+# Conda
+environment_backup.yml
+
+# OS
+.DS_Store
+Thumbs.db

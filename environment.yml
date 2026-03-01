@@ -1,0 +1,12 @@
+name: used-car-price-predictor
+channels:
+  - defaults
+dependencies:
+  - python=3.13.5
+  - jupyterlab
+  - pandas
+  - matplotlib
+  - seaborn
+  - kagglehub
+  - scikit-learn
+prefix: C:\Users\molin\anaconda3\envs\used-car-price-predictor
