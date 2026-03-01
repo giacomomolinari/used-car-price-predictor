@@ -31,5 +31,6 @@ the best-performing ones are a Linear Regression model with polynomial (degree 2
 dataset is:
 - Linear Regression: 1252628
 - Random Forest Regressor: 713933
+  
 The Random Forest Regressor is by far the best model trained in these notebooks, but its performance is still quite poor for the task. For reference,
 the selling price is expressed in Indian Rupees, and it has (approximate) mean 1723303 and standard deviation 2461002 across the training dataset.
