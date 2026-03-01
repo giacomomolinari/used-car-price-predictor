@@ -34,3 +34,9 @@ dataset is:
   
 The Random Forest Regressor is by far the best model trained in these notebooks, but its performance is still quite poor for the task. For reference,
 the selling price is expressed in Indian Rupees, and it has (approximate) mean 1723303 and standard deviation 2461002 across the training dataset.
+
+## TODO
+- Experiment with target normalisation to improve numerical stability.
+- Feature selection based on Random Forest feature importances.
+- Hyperparameter tuning to address overfitting in the Random Forest model.
+- Explore additional model types.
